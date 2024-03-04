@@ -23,7 +23,7 @@ Member and casual customers use the service more in summer months, but specially
 ![](./external_visuals/unnamed-chunk-24-1.png)
 Casual customers take much longer in their trips doubling member customers, offering incentives to become a member based in the duration of the trip could make trips even longer reducing the availability of the service with less bikes in stations.
 
-### Electrical and classical trips
+### Electrical and classical bikes trips
 
 ![](./external_visuals/unnamed-chunk-25-1.png)
 Casual customers ride electrical bikes more often than classical bikes, in months with high demand not so much maybe because of not enough electrical bikes at stations.
