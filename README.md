@@ -43,7 +43,6 @@ Casual members use the service most often Friday, Saturday and Sunday, the campa
 | Dusable Harbor | 15487 | Broadway & Barry Ave | 18955 |
 | Wells St & Concord Ln | 12168 | Loomis St & Lexington St | 18898 |
 | Montrose Harbor | 11986 | State St & Chicago Ave | 18484 |
-Montrose Harbor	11986	State St & Chicago Ave	18484
 
 Casual members use the service most often Friday, Saturday and Sunday, the campaign could be more
 effective these days and also offer a discount for members these days, actual members ride to a lesser
