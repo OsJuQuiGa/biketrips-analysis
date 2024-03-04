@@ -12,20 +12,28 @@ Data for [2023](https://www.kaggle.com/datasets/ojquirogag/bike-ridership)
 
 ## Visualizations, insights and recommendations
 
+### Number of trips by month
 ![](./external_visuals/unnamed-chunk-22-1.png)
 
 ![](./external_visuals/unnamed-chunk-23-1.png)
 
 Member and casual customers use the service more in summer months, but specially casual customers that make up 43.2% of all trips in the peak month of July(7), it's better to do the capaign in these months.
 
+### Trip duration
 ![](./external_visuals/unnamed-chunk-24-1.png)
 Casual customers take much longer in their trips doubling member customers, offering incentives to become a member based in the duration of the trip could make trips even longer reducing the availability of the service with less bikes in stations.
+
+### Electrical and classical trips
 
 ![](./external_visuals/unnamed-chunk-25-1.png)
 Casual customers ride electrical bikes more often than classical bikes, in months with high demand not so much maybe because of not enough electrical bikes at stations.
 
+### Weekdays trips
+
 ![](./external_visuals/unnamed-chunk-26-1.png)
 Casual members use the service most often Friday, Saturday and Sunday, the campaign could be more effective these days and also offer a discount for members these days, actual members ride to a lesser degree these days.
+
+### Most used stations
 
 [live visualization](https://public.tableau.com/app/profile/oscar.quiroga8687/viz/Densitymapridebikes/DensitymapofTOP250stations)
 
@@ -44,7 +52,5 @@ Casual members use the service most often Friday, Saturday and Sunday, the campa
 | Wells St & Concord Ln | 12168 | Loomis St & Lexington St | 18898 |
 | Montrose Harbor | 11986 | State St & Chicago Ave | 18484 |
 
-Casual members use the service most often Friday, Saturday and Sunday, the campaign could be more
-effective these days and also offer a discount for members these days, actual members ride to a lesser
-degree these days.
-Casual rides concentrate around the shoreline and specially in Streeter Dr & Grand Ave and DuSable Lake Shore Dr & Monroe St stations, the campaign has to be more prominent in these stations.
+ Casual rides concentrate around the shoreline and specially in Streeter Dr & Grand Ave and DuSable
+Lake Shore Dr & Monroe St stations, the campaign has to be more prominent in these stations.
