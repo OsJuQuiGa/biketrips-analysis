@@ -33,7 +33,7 @@ Casual customers ride electrical bikes more often than classical bikes, in month
 ![](./external_visuals/unnamed-chunk-26-1.png)
 Casual members use the service most often Friday, Saturday and Sunday, the campaign could be more effective these days and also offer a discount for members these days, actual members ride to a lesser degree these days.
 
-### Most used stations
+### Most used stations in year 2023
 
 [live visualization](https://public.tableau.com/app/profile/oscar.quiroga8687/viz/Densitymapridebikes/DensitymapofTOP250stations)
 
